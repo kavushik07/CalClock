@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1642847089 source:c:\users\shine\downloads\calclock\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	<stdbool.h>
+	<conio.h>
+
+1642950126 source:c:\users\shine\downloads\calclock\clock_1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	<stdbool.h>
+	<conio.h>
+
+1642846831 source:c:\users\shine\downloads\calclock\special_event.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	<stdbool.h>
+	<conio.h>
+
+1642846831 source:c:\users\shine\downloads\calclock\user_event.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	<stdbool.h>
+	<conio.h>
+
+1642950128 source:c:\users\shine\documents\sherin- sem 1\c programs sem-1\projects\calclock\calclock\clock_1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	<stdbool.h>
+	<conio.h>
+
+1642847090 source:c:\users\shine\documents\sherin- sem 1\c programs sem-1\projects\calclock\calclock\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	<stdbool.h>
+	<conio.h>
+
+1642846832 source:c:\users\shine\documents\sherin- sem 1\c programs sem-1\projects\calclock\calclock\special_event.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	<stdbool.h>
+	<conio.h>
+
+1642846832 source:c:\users\shine\documents\sherin- sem 1\c programs sem-1\projects\calclock\calclock\user_event.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	<stdbool.h>
+	<conio.h>
+
+1642950128 source:c:\users\shine\documents\sherin- academics\sherin- sem 1\c programs sem-1\projects\calclock\calclock\clock_1.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	<stdbool.h>
+	<conio.h>
+
+1642847090 source:c:\users\shine\documents\sherin- academics\sherin- sem 1\c programs sem-1\projects\calclock\calclock\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	<stdbool.h>
+	<conio.h>
+
+1642846832 source:c:\users\shine\documents\sherin- academics\sherin- sem 1\c programs sem-1\projects\calclock\calclock\special_event.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	<stdbool.h>
+	<conio.h>
+
+1642846832 source:c:\users\shine\documents\sherin- academics\sherin- sem 1\c programs sem-1\projects\calclock\calclock\user_event.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<time.h>
+	<stdbool.h>
+	<conio.h>
+
